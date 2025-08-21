@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Chenna Harshan Reddy
 **A passionate Data Analyst || PowerBI Developer || BDE from Hyderabad**
 
-- 🔭 **I’m currently working:** As a Business Development Executive 
+- 🔭 **I’m currently working:** As a Business Development Executive (Scitex Pharmaceuticals Pvt Ltd)
 - 🌱 **I’m currently learning:** Microsoft Excel,Microsoft PowerBI, MySQL, Python.
 - 📫 **How to reach me:** chennaharshan17@gmail.com
 
@@ -25,8 +25,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yc-harshan-reddy17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yc-harshan-reddy17&limit=5&theme=dark&combine_all_yearly_contributions=true)
